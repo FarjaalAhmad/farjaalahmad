@@ -17,3 +17,7 @@ I made some things and do things just for fun. I can't live without Internet bes
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=farjaalahmad&theme=alduin&margin-w=28)](https://github.com/ryo-ma/github-profile-trophy)
+
+You guys can support me by registering to my Digital Ocean Referral Link below and you will also Get $100 Free for 2 months.
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=42d61c4435ff&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
