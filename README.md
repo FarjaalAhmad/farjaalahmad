@@ -1,6 +1,6 @@
 ## Hi there, I'm Farjaal Ahmad 🔥
 
-I made some things and do things just for fun. I can't live without Internet besides oxygen and water, ROFL. I'm Full stack developer, Cyber Security Analyst, Penetration Tester, Red Team and CTF player.
+I made some things and do things just for fun. I can't live without Internet besides oxygen and water, LMFAO. I'm Full stack developer, Cyber Security Analyst, Penetration Tester, Red Team and CTF player.
 
 - 🌱 I’m just learning new thing in Cybersecurity and doing experiements.
 
