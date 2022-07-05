@@ -2,7 +2,8 @@
 
 I made some things and do things just for fun. I can't live without Internet besides oxygen and water, LMFAO. I'm Full stack developer, Cyber Security Analyst, Penetration Tester, Red Team and CTF player.
 
-- 🌱 I’m just learning new thing in Cybersecurity and doing experiements.
+- 🌱 Just learning new thing in Cybersecurity and doing experiements.
+- 🌱 Huge fan of Automation. Automation is a Key to Success.
 
 <p>My Social Media Handles: 
   <strong><a href="https://twitter.com/farjaalahmad">Twitter</a></strong> |
