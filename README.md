@@ -36,6 +36,6 @@ Register to my Digital Ocean Referral Link below and you will also Get $100 Free
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farjaalahmad&show_icons=true&locale=en&layout=compact" alt="farjaalahmad" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farjaalahmad&show_icons=true&locale=en" alt="farjaalahmad" /></p><br>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=farjaalahmad&show_icons=true&locale=en" alt="farjaalahmad" /></p><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farjaalahmad&" alt="farjaalahmad" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=farjaalahmad&" alt="farjaalahmad" /></p>
