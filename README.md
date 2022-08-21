@@ -15,8 +15,6 @@ I made some things and do things just for fun. I can't live without Internet bes
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Pentesting a Crypto Exchange for fun and profit](https://farjaalahmad.medium.com/pentesting-a-crypto-exchange-for-fun-and-profit-921af5ebac39?source=rss-6f5c2d7a42f7------2)
-- [Multiple Vulnerabilities including Account Takeover, Bypass OTP etc.](https://farjaalahmad.medium.com/multiple-vulnerabilities-including-account-takeover-bypass-otp-etc-bc95f849a8b8?source=rss-6f5c2d7a42f7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
@@ -34,8 +32,8 @@ Register to Digital Ocean below and you will also Get $100 Free for 2 months.
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=42d61c4435ff&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
 <hr>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farjaalahmad&show_icons=true&locale=en&layout=compact" alt="farjaalahmad" /></p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farjaalahmad&show_icons=true&locale=en&layout=compact" alt="farjaalahmad" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farjaalahmad&show_icons=true&locale=en" alt="farjaalahmad" /></p><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farjaalahmad&" alt="farjaalahmad" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=farjaalahmad&" alt="farjaalahmad" /></p>
