@@ -32,8 +32,8 @@ Register to Digital Ocean below and you will also Get $100 Free for 2 months.
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=42d61c4435ff&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
 <hr>
-<p>&nbsp;<img align="" style="width:50%;text-align:center;" src="https://github-readme-stats.vercel.app/api/top-langs?username=farjaalahmad&show_icons=true&locale=en&layout=compact" alt="farjaalahmad" /></p>
+<p style="text-align:center;">&nbsp;<img align="" style="width:50%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=farjaalahmad&show_icons=true&locale=en&layout=compact" alt="farjaalahmad" /></p>
 
-<p>&nbsp;<img align="" style="width:50%;text-align:center;" src="https://github-readme-stats.vercel.app/api?username=farjaalahmad&show_icons=true&locale=en" alt="farjaalahmad" /></p>
+<p style="text-align:center;">&nbsp;<img align="" style="width:50%;text-align:center;" src="https://github-readme-stats.vercel.app/api?username=farjaalahmad&show_icons=true&locale=en" alt="farjaalahmad" /></p>
 
-<p>&nbsp;<img align="" style="width:50%;text-align:center;" src="https://github-readme-streak-stats.herokuapp.com/?user=farjaalahmad&" alt="farjaalahmad" /></p>
+<p style="text-align:center;">&nbsp;<img align="" style="width:50%;text-align:center;" src="https://github-readme-streak-stats.herokuapp.com/?user=farjaalahmad&" alt="farjaalahmad" /></p>
