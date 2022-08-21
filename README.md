@@ -34,7 +34,7 @@ Register to my Digital Ocean Referral Link below and you will also Get $100 Free
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=42d61c4435ff&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
 <hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farjaalahmad&show_icons=true&locale=en&layout=compact" alt="farjaalahmad" /></p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farjaalahmad&show_icons=true&locale=en&layout=compact" alt="farjaalahmad" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farjaalahmad&show_icons=true&locale=en" alt="farjaalahmad" /></p><br>
 
