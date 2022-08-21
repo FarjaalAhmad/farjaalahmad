@@ -15,6 +15,8 @@ I made some things and do things just for fun. I can't live without Internet bes
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Pentesting a Crypto Exchange for fun and profit](https://farjaalahmad.medium.com/pentesting-a-crypto-exchange-for-fun-and-profit-921af5ebac39?source=rss-6f5c2d7a42f7------2)
+- [Multiple Vulnerabilities including Account Takeover, Bypass OTP etc.](https://farjaalahmad.medium.com/multiple-vulnerabilities-including-account-takeover-bypass-otp-etc-bc95f849a8b8?source=rss-6f5c2d7a42f7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
