@@ -34,6 +34,6 @@ Register to Digital Ocean below and you will also Get $100 Free for 2 months.
 <hr>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farjaalahmad&show_icons=true&locale=en&layout=compact" alt="farjaalahmad" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farjaalahmad&show_icons=true&locale=en" alt="farjaalahmad" /></p>
+<p>&nbsp;<img align="right" style="width:95%;" src="https://github-readme-stats.vercel.app/api?username=farjaalahmad&show_icons=true&locale=en" alt="farjaalahmad" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farjaalahmad&" alt="farjaalahmad" /></p>
